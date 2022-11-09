@@ -4,8 +4,8 @@
 	"description": "Altschool Second semester examination",
 	"main": "app.js",
 	"scripts": {
-		"test": "jest",
-		"start": "node server.js"
+		"start": "node server.js",
+		"test": "jest"
 	},
 	"keywords": [
 		"node",
