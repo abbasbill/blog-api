@@ -15,10 +15,9 @@ This is an api for a blog app
 | field  |  data_type | constraints  |
 |---|---|---|
 |  id |  string |  required |
-|  username |  string |  required |
-|  firstname | string  |  optional|
-|  lastname  |  string |  optional  |
-|  email     | string  |  optional |
+|  firstname | string  |  required|
+|  lastname  |  string |  required  |
+|  email     | string  |  required |
 |  password |   string |  required  |
 
 
