@@ -50,8 +50,7 @@ Success
         "email": "doe@example.com",
         "password": "Password1",
         "firstname": "jon",
-        "lastname": "doe",
-        "username": 'jon_doe",
+        "lastname": "doe"
     }
 }
 ```
