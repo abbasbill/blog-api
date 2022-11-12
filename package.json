@@ -1,7 +1,7 @@
 {
 	"name": "blog-api",
 	"version": "1.0.0",
-	"description": "Altschool Second semester examination",
+	"description": "",
 	"main": "app.js",
 	"scripts": {
 		"start": "node server.js",
