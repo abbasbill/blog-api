@@ -12,13 +12,13 @@ This is an api for a blog app
 ---
 
 ### User
-| field  |  data_type | constraints  |
-|---|---|---|
-|  id |  string |  required |
-|  firstname | string  |  required|
-|  lastname  |  string |  required  |
-|  email     | string  |  required |
-|  password |   string |  required  |
+| #field     |  #data_type | #constraints  
+------------------------------------------
+|  id        |  string     |  required 
+|  firstname | string      |  required
+|  lastname  |  string     |  required  
+|  email     | string      |  required 
+|  password  |  string     |  required  
 
 
 
