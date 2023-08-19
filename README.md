@@ -5,7 +5,7 @@ This is an api for a blog app
 
 
 ## Base URL
-- [https://jade-smiling-goat.cyclic.app/](https://jade-smiling-goat.cyclic.app/)
+- [https://jade-smiling-goat.cyclic.app/](https://jade-smiling-goat.cyclic.app/articles)
 
 
 ## Models
